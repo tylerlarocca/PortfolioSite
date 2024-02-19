@@ -12,7 +12,7 @@ const Menu = [
         image: Flashcard, 
         title: "Flashcard Builder Project", 
         category: "Front-End Development",
-        url: "https://github.com/tylerlarocca/FlashCardCapstone"
+        url: "https://flashcard-capstone-akrw.onrender.com"
     },
     {
         id: 2, 
@@ -33,21 +33,21 @@ const Menu = [
         image: RecipeCapstone, 
         title: "Recipe Tracker Project", 
         category: "Front-End Development", 
-        url: "https://github.com/tylerlarocca/RecipeCapstone"
+        url: "https://recipe-tracker-app-27ln.onrender.com"
     },
     {
         id: 5, 
         image: RestaurantRes, 
         title: "Restaurant Reservation Application", 
         category: "Full Stack Development", 
-        url: "https://github.com/tylerlarocca/restaurantreservationapp"
+        url: "https://restaurantresfinal.vercel.app/dashboard"
     },
     {
         id: 6, 
         image: WeLoveMovies, 
         title: "We Love Movies Database Project", 
         category: "Back-End Development", 
-        url: "https://github.com/tylerlarocca/WeLoveMovies"
+        url: "https://welovemoviesfrontend-nijt.onrender.com"
     },
 
 ]
