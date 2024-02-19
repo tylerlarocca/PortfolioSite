@@ -14,7 +14,7 @@ function Home() {
 
         <HeaderSocials />
 
-        <a href="#contact" className="btn">Hire Me</a>
+        <a href="#contact" className="btn">Contact</a>
         
         <ScrollDown />
       </div>
