@@ -23,7 +23,7 @@
 }
 
 .home__socials {
-    display: flex;
+    display: flexbox;
     column-gap: 1.75rem;
     margin: 1.5rem 0; 
     align-items: center;
@@ -32,8 +32,9 @@
 
 .home__social-link {
     color: var(--title-color); 
-    font-size: 1.3rem; 
-    transition: .3s; 
+    font-size: 30px; 
+    transition: .3s;
+    padding: 10px; 
 }
 
 .home__social-link:hover {
@@ -49,6 +50,7 @@
 }
 
 .home__scroll-name {
+    padding: 5px;
     font-size: var(--small-font-size); 
 }
 
@@ -92,6 +94,14 @@
     transform: translateX(-50%); 
     animation: ani-mouse 2s linear infinite; 
 }
+.tech-stack i {
+    font-size: 36px; /* Adjust the size as needed */
+}
+.tech-stack {
+    padding: 10px;
+    text-align: center; /* Center-align the icons if desired */
+}
+
 
 /* @media all and (min-height:600px) {
     .scroll__down {

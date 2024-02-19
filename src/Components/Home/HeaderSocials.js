@@ -3,6 +3,7 @@ import React from "react";
 function HeaderSocials(){
     return (
         <div className="home__socials">
+            <h3>My Links:</h3>
             <a href="https://www.linkedin.com/in/tyler-larocca/" className="home__social-link" target="_blank">
             <i class="fa-brands fa-linkedin"></i>
             </a>
