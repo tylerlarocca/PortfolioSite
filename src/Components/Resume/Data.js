@@ -30,13 +30,22 @@ const Data = [
         id: 4, 
         category: "experience", 
         icon: "icon-briefcase",
+        year: "2023 - Current",
+        title: "Freelance Software Developer",
+        desc: "Developed and deployed custom software solutions for diverse clients, leveraging full-stack technologies like JavaScript, React, Node.js, and PostgreSQL. Managed projects from inception to launch, emphasizing responsive design, code optimization, and client collaboration, while offering post-launch updates and consultations to ensure customer satisfaction and long-term success."
+    },
+
+    {
+        id: 5, 
+        category: "experience", 
+        icon: "icon-briefcase",
         year: "2022 - 2023",
         title: "Enrollment Services Rep | Carrington College",
         desc: "Engaged with prospective students to provide information about programs. Assisted students in the enrollment process, ensuring a smooth transition into their educational journey. Created a welcoming and informative environment for students considering Carrington."
     },
 
     {
-        id: 5, 
+        id: 6, 
         category: "experience", 
         icon: "icon-briefcase",
         year: "2018 - 2022",
@@ -44,14 +53,6 @@ const Data = [
         desc: "Provided expert assistance and product knowledge to customers, ensuring their needs were met and questions answered. Facilitated smooth customer transactions and supported them through the purchasing process, enhancing overall satisfaction. Maintained a welcoming and informative atmosphere in-store, and helped customers make informed decisions about electronics and appliances."
     },
 
-    {
-        id: 6, 
-        category: "experience", 
-        icon: "icon-briefcase",
-        year: "2015 - 2018",
-        title: "Barista - Starbucks",
-        desc: "Collaborated effectively with a diverse team to streamline operations and enhance the customer experience, showcasing strong teamwork and communication skills. Managed high-volume orders with precision and efficiency, demonstrating an ability to prioritize tasks and maintain quality under pressure. Adapted quickly to new product offerings and promotions, reflecting a commitment to continuous learning and flexibility. Ensured accuracy in all transactions, highlighting attention to detail and problem-solving abilities to address and resolve customer inquiries."
-    },
 
 ]
 
