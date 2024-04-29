@@ -1,6 +1,6 @@
 import Flashcard from "../../Assets/flashcards.png"
 import GrubDash from "../../Assets/Grubdash.jpeg"
-import LocalLib from "../../Assets/LocalLib.png"
+import WeatherApp from "../../Assets/WeatherApp.png"
 import RecipeCapstone from "../../Assets/RecipeCapstone.png"
 import RestaurantRes from "../../Assets/RestaurantRes.png"
 import WeLoveMovies from "../../Assets/WLM.png"
@@ -23,10 +23,10 @@ const Menu = [
     },
     {
         id: 3, 
-        image: LocalLib, 
-        title: "Local Library", 
+        image: WeatherApp, 
+        title: "Weather Application", 
         category: "Front-End Development",
-        url: "https://github.com/tylerlarocca/LocalLib"
+        url: "https://weatherapp-zoa2.onrender.com/"
     },
     {
         id: 4, 
