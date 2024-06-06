@@ -30,27 +30,27 @@ const Data = [
         id: 4, 
         category: "experience", 
         icon: "icon-briefcase",
-        year: "2023 - Current",
-        title: "Freelance Software Developer",
-        desc: "Developed and deployed custom software solutions for diverse clients, leveraging full-stack technologies like JavaScript, React, Node.js, and PostgreSQL. Managed projects from inception to launch, emphasizing responsive design, code optimization, and client collaboration, while offering post-launch updates and consultations to ensure customer satisfaction and long-term success."
+        year: "2024 - Current",
+        title: "Fullstack Software Engineering Intern (AI)",
+        desc: "Collaborate in a dynamic team to develop an AI chatbot using PHP/Laravel and JavaScript. Implementing and integrating Natural Language Models (NLM) to enhance the chatbot's ability to coach users through Madden games. Participating in designing, coding, testing, and deploying chatbot features to ensure a seamless user experience."
     },
 
     {
         id: 5, 
         category: "experience", 
         icon: "icon-briefcase",
-        year: "2022 - 2023",
-        title: "Enrollment Services Rep | Carrington College",
-        desc: "Engaged with prospective students to provide information about programs. Assisted students in the enrollment process, ensuring a smooth transition into their educational journey. Created a welcoming and informative environment for students considering Carrington."
+        year: "2023 - Current",
+        title: "Freelance Software Developer",
+        desc: "Developed and deployed custom software solutions for diverse clients, leveraging full-stack technologies like JavaScript, React, Node.js, and PostgreSQL. Managed projects from inception to launch, emphasizing responsive design, code optimization, and client collaboration, while offering post-launch updates and consultations to ensure customer satisfaction and long-term success."
     },
 
     {
         id: 6, 
         category: "experience", 
         icon: "icon-briefcase",
-        year: "2018 - 2022",
-        title: "Customer Service Rep | Best Buy",
-        desc: "Provided expert assistance and product knowledge to customers, ensuring their needs were met and questions answered. Facilitated smooth customer transactions and supported them through the purchasing process, enhancing overall satisfaction. Maintained a welcoming and informative atmosphere in-store, and helped customers make informed decisions about electronics and appliances."
+        year: "2022 - 2023",
+        title: "Enrollment Services Rep | Carrington College",
+        desc: "Engaged with prospective students to provide information about programs. Assisted students in the enrollment process, ensuring a smooth transition into their educational journey. Created a welcoming and informative environment for students considering Carrington." 
     },
 
 
