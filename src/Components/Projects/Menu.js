@@ -1,7 +1,7 @@
 import Flashcard from "../../Assets/flashcards.png"
 import GrubDash from "../../Assets/Grubdash.jpeg"
 import WeatherApp from "../../Assets/WeatherApp.png"
-import RecipeCapstone from "../../Assets/RecipeCapstone.png"
+import DCM from "../../Assets/DCM.png"
 import RestaurantRes from "../../Assets/RestaurantRes.png"
 import WeLoveMovies from "../../Assets/WLM.png"
 
@@ -30,10 +30,10 @@ const Menu = [
     },
     {
         id: 4, 
-        image: RecipeCapstone, 
-        title: "Recipe Tracker Project", 
+        image: DCM, 
+        title: "Digital Cartel Media", 
         category: "Front-End Development", 
-        url: "https://recipe-tracker-app-27ln.onrender.com"
+        url: "https://digitalcartelmedia.com/"
     },
     {
         id: 5, 
