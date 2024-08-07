@@ -48,9 +48,9 @@ const Data = [
         id: 6, 
         category: "experience", 
         icon: "icon-briefcase",
-        year: "2022 - 2023",
-        title: "Enrollment Services Rep | Carrington College",
-        desc: "Engaged with prospective students to provide information about programs. Assisted students in the enrollment process, ensuring a smooth transition into their educational journey. Created a welcoming and informative environment for students considering Carrington." 
+        year: "2021 - 2022",
+        title: "Web Developer | Digital Cartel Media",
+        desc: "Designed and implemented innovative web development strategies, optimizing user experience and enhancing website performance. Developed and executed data-driven web applications, increasing user engagement and satisfaction. Implemented front-end and back-end solutions, actively improving website functionality and reliability. Conducted in-depth code reviews and testing to ensure high-quality, bug-free releases, enabling data-driven decision-making." 
     },
 
 
