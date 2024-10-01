@@ -31,18 +31,19 @@ const Data = [
         category: "experience", 
         icon: "icon-briefcase",
         year: "2024 - Current",
-        title: "Fullstack Software Engineering Intern (AI)",
-        desc: "Collaborate in a dynamic team to develop an AI chatbot using PHP/Laravel and JavaScript. Implementing and integrating Natural Language Models (NLM) to enhance the chatbot's ability to coach users through Madden games. Participating in designing, coding, testing, and deploying chatbot features to ensure a seamless user experience."
+        title: "Frontend Software Engineer Intern | ComplyAI",
+        desc: "Develop and enhance web applications using TypeScript, JavaScript, React, and TailwindCSS. Focus on creating intuitive, user-friendly interfaces that improve the overall user experience.Build efficient, accessible, and responsive web applications optimized for performance.Implement modern front-end development practices, ensuring clean, maintainable code.Collaborate closely with cross-functional teams to deliver high-quality solutions that address real-world problems.Continuously seek ways to improve the user experience and technical quality of web applications."
     },
 
     {
         id: 5, 
         category: "experience", 
         icon: "icon-briefcase",
-        year: "2023 - Current",
-        title: "Freelance Software Developer",
-        desc: "Developed and deployed custom software solutions for diverse clients, leveraging full-stack technologies like JavaScript, React, Node.js, and PostgreSQL. Managed projects from inception to launch, emphasizing responsive design, code optimization, and client collaboration, while offering post-launch updates and consultations to ensure customer satisfaction and long-term success."
+        year: "2024 - Current",
+        title: "Fullstack Software Engineering Intern (AI) | The Madden Academy",
+        desc: "Collaborate in a dynamic team to develop an AI chatbot using PHP/Laravel and JavaScript. Implementing and integrating Natural Language Models (NLM) to enhance the chatbot's ability to coach users through Madden games. Participating in designing, coding, testing, and deploying chatbot features to ensure a seamless user experience."
     },
+
 
     {
         id: 6, 
