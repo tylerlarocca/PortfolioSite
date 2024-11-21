@@ -31,7 +31,7 @@ const Data = [
         category: "experience", 
         icon: "icon-briefcase",
         year: "2024 - Current",
-        title: "Frontend Software Engineer Intern | ComplyAI",
+        title: "Software Engineer - FrontEnd | ComplyAI",
         desc: "Develop and enhance web applications using TypeScript, JavaScript, React, and TailwindCSS. Focus on creating intuitive, user-friendly interfaces that improve the overall user experience.Build efficient, accessible, and responsive web applications optimized for performance.Implement modern front-end development practices, ensuring clean, maintainable code.Collaborate closely with cross-functional teams to deliver high-quality solutions that address real-world problems.Continuously seek ways to improve the user experience and technical quality of web applications."
     },
 
