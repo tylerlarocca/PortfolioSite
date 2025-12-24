@@ -1,5 +1,5 @@
-import React from "react"; 
-import "./Sidebar.css"; 
+import React from "react";
+import "./Sidebar.css";
 
 // import Logo from "../../assets"
 
@@ -7,9 +7,9 @@ function Sidebar() {
   return (
     <aside>
       <nav className="nav">
-      <a href="#home" className="nav__logo">
-        {/* <img src={} alt="" /> */}
-      </a>
+        <a href="#home" className="nav__logo">
+          {/* <img src={} alt="" /> */}
+        </a>
         <div className="nav__menu">
           <ul className="nav__list">
             <li className="nav__item">
@@ -43,13 +43,12 @@ function Sidebar() {
             </li>
           </ul>
         </div>
-      <div className="nav__footer">
-        <span className="copyright">&copy; 2023 - 2024</span>
-      </div>
+        <div className="nav__footer">
+          <span className="copyright">&copy; 2023 - 2026</span>
+        </div>
       </nav>
-
     </aside>
-  )
+  );
 }
 
 export default Sidebar;
