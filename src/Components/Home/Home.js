@@ -11,7 +11,8 @@ function Home() {
         <img src={TylerPfp} alt="" className="home__img" />
         <h1 className="home__name">Tyler LaRocca</h1>
         <span className="home__education">
-          Full Stack Developer and Engineer. IT and SEO Specialist.
+          Full Stack Developer and Engineer - IT and SEO Expert - Leader -
+          Solution Creator - Problem Solver - Team Builder
         </span>
 
         <HeaderSocials />
