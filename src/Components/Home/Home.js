@@ -17,24 +17,24 @@ function Home() {
 
         <HeaderSocials />
 
-        <div class="tech-stack">
+        <div className="tech-stack">
           <link
             rel="stylesheet"
             type="text/css"
             href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
           />
-          <i class="devicon-javascript-plain colored"></i>
-          <i class="devicon-typescript-plain colored"></i>
-          <i class="devicon-react-original colored"></i>
-          <i class="devicon-python-plain colored"></i>
-          <i class="devicon-nextjs-original-wordmark colored"></i>
-          <i class="devicon-css3-plain colored"></i>
-          <i class="devicon-html5-plain colored"></i>
-          <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
-          <i class="devicon-bootstrap-plain colored"></i>
-          <i class="devicon-postgresql-plain-wordmark colored"></i>
-          <i class="devicon-knexjs-plain-wordmark colored"></i>
-          <i class="devicon-express-original-wordmark colored"></i>
+          <i className="devicon-javascript-plain colored"></i>
+          <i className="devicon-typescript-plain colored"></i>
+          <i className="devicon-react-original colored"></i>
+          <i className="devicon-python-plain colored"></i>
+          <i className="devicon-nextjs-original-wordmark colored"></i>
+          <i className="devicon-css3-plain colored"></i>
+          <i className="devicon-html5-plain colored"></i>
+          <i className="devicon-amazonwebservices-plain-wordmark colored"></i>
+          <i className="devicon-bootstrap-plain colored"></i>
+          <i className="devicon-postgresql-plain-wordmark colored"></i>
+          <i className="devicon-knexjs-plain-wordmark colored"></i>
+          <i className="devicon-express-original-wordmark colored"></i>
         </div>
 
         <a href="#contact" className="btn">
