@@ -4,11 +4,11 @@ function HeaderSocials(){
     return (
         <div className="home__socials">
             <h3>My Links:</h3>
-            <a href="https://www.linkedin.com/in/tyler-larocca/" className="home__social-link" target="_blank">
+            <a href="https://www.linkedin.com/in/tyler-larocca/" className="home__social-link" target="_blank" rel="noreferrer">
             <i class="fa-brands fa-linkedin"></i>
             </a>
 
-            <a href="https://github.com/tylerlarocca" className="home__social-link" target="_blank">
+            <a href="https://github.com/tylerlarocca" className="home__social-link" target="_blank" rel="noreferrer">
             <i class="fa-brands fa-github"></i>
             </a>
         </div>
