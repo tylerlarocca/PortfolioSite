@@ -94,11 +94,11 @@
   animation: ani-mouse 2s linear infinite;
 }
 .tech-stack i {
-  font-size: 36px; /* Adjust the size as needed */
+  font-size: 36px; 
 }
 .tech-stack {
   padding: 10px;
-  text-align: center; /* Center-align the icons if desired */
+  text-align: center; 
 }
 
 @media (max-width: 768px) {
